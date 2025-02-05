@@ -12,30 +12,33 @@
 ---
 
 ## **Skills**  
+## 🛠️ **Skills**  
 
-#### **Programming Languages**
+### **Programming Languages**  
 <img width="30" title="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-<img width="30" title="Python" src="https://user-images.githubusercontent.com/25181517/117447453-9f92dc80-af3d-11eb-9ce4-07b9b7f4aab3.png"/>
-<img width="30" title="C" src="https://user-images.githubusercontent.com/25181517/117447663-cd783100-af3d-11eb-881f-3f35f25f3a35.png"/>
-<img width="30" title="C++" src="https://user-images.githubusercontent.com/25181517/117447633-c31e9a00-af3d-11eb-8b73-48c9b31d3a7e.png"/>
+<img width="30" title="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+<img width="30" title="C" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>
+<img width="30" title="C++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"/>
 
-#### **Web Development**
-<img width="30" title="Next.js" src="https://user-images.githubusercontent.com/25181517/117447698-db2db680-af3d-11eb-8d37-3f6a9246a5c7.png"/>
-<img width="30" title="React" src="https://user-images.githubusercontent.com/25181517/117447718-e41e8800-af3d-11eb-913a-416e69b996a6.png"/>
-<img width="30" title="Node.js" src="https://user-images.githubusercontent.com/25181517/117447760-ec76c300-af3d-11eb-9a6e-3115a3ff47bc.png"/>
-<img width="30" title="MongoDB" src="https://user-images.githubusercontent.com/25181517/117447788-f39dd100-af3d-11eb-9d42-7f8b74b4c195.png"/>
-<img width="30" title="Express.js" src="https://user-images.githubusercontent.com/25181517/117447807-f8fb1b80-af3d-11eb-9e4e-365eb3b22e2a.png"/>
-<img width="30" title="Tailwind CSS" src="https://user-images.githubusercontent.com/25181517/117447841-02848380-af3e-11eb-9d3f-130b56b844b2.png"/>
+### **Web Development**  
+<img width="30" title="Next.js" src="https://user-images.githubusercontent.com/25181517/183859234-a076df82-59d8-4eda-b7a6-1f1c0a16df0b.png"/>
+<img width="30" title="React" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
+<img width="30" title="Node.js" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"/>
+<img width="30" title="MongoDB" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"/>
+<img width="30" title="Express.js" src="https://user-images.githubusercontent.com/25181517/183859234-a076df82-59d8-4eda-b7a6-1f1c0a16df0b.png"/>
+<img width="30" title="Tailwind CSS" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
+<img width="30" title="HTML" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+<img width="30" title="CSS" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+<img width="30" title="Bootstrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"/>
+<img width="30" title="Redux" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"/>
 
-#### **Tools & Platforms**
-<img width="30" title="Git" src="https://user-images.githubusercontent.com/25181517/117447876-0d3f1880-af3e-11eb-8e91-8e50aa0fd6be.png"/>
-<img width="30" title="GitHub" src="https://user-images.githubusercontent.com/25181517/117447911-14662680-af3e-11eb-995b-4f19e8c95a40.png"/>
-<img width="30" title="Postman" src="https://user-images.githubusercontent.com/25181517/117447948-1d570800-af3e-11eb-83ac-62417d3e2dc4.png"/>
-<img width="30" title="Figma" src="https://user-images.githubusercontent.com/25181517/117447985-28119d00-af3e-11eb-808e-4c3a58edc34b.png"/>
-<img width="30" title="Linux" src="https://user-images.githubusercontent.com/25181517/117448012-2fd14180-af3e-11eb-982a-6ffb80d0ea62.png"/>
-<img width="30" title="DigitalOcean" src="https://user-images.githubusercontent.com/25181517/117448036-38297c80-af3e-11eb-86a8-5b1cfdcd61e9.png"/>
-
-
+### **Tools & Platforms**  
+<img width="30" title="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+<img width="30" title="GitHub" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
+<img width="30" title="Postman" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
+<img width="30" title="Figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"/>
+<img width="30" title="Linux" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"/>
+<img width="30" title="DigitalOcean" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"/>
 ---
 
 <!-- ## 📈 **GitHub Stats**  
