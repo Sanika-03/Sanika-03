@@ -7,37 +7,34 @@
 - 👩‍💻 Full-Stack Developer with expertise in **MERN stack**, crafting scalable and efficient web applications.
 - 🚀 Passionate about automation, user-centric design, and performance optimization.
 - 🔥 Currently developing a **tax-filing application** leveraging **Next.js, MongoDB, Express.js, and Node.js** for seamless automation and role-based access.
-- 📄 [Check out my resume](https://github.com/Sanika-03/resume) to explore my experience and skills!
+- 📄 [Check out my resume](https://drive.google.com/file/d/1NxnJKH4kOiJOZZ8osGOEHdF_ERtGvqkU/view?usp=sharing) to explore my experience and skills!
 
 ---
 
 ## **Skills**  
 
-### **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+#### **Programming Languages**
+<img width="30" title="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+<img width="30" title="Python" src="https://user-images.githubusercontent.com/25181517/117447453-9f92dc80-af3d-11eb-9ce4-07b9b7f4aab3.png"/>
+<img width="30" title="C" src="https://user-images.githubusercontent.com/25181517/117447663-cd783100-af3d-11eb-881f-3f35f25f3a35.png"/>
+<img width="30" title="C++" src="https://user-images.githubusercontent.com/25181517/117447633-c31e9a00-af3d-11eb-8b73-48c9b31d3a7e.png"/>
 
-### **Web Development**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+#### **Web Development**
+<img width="30" title="Next.js" src="https://user-images.githubusercontent.com/25181517/117447698-db2db680-af3d-11eb-8d37-3f6a9246a5c7.png"/>
+<img width="30" title="React" src="https://user-images.githubusercontent.com/25181517/117447718-e41e8800-af3d-11eb-913a-416e69b996a6.png"/>
+<img width="30" title="Node.js" src="https://user-images.githubusercontent.com/25181517/117447760-ec76c300-af3d-11eb-9a6e-3115a3ff47bc.png"/>
+<img width="30" title="MongoDB" src="https://user-images.githubusercontent.com/25181517/117447788-f39dd100-af3d-11eb-9d42-7f8b74b4c195.png"/>
+<img width="30" title="Express.js" src="https://user-images.githubusercontent.com/25181517/117447807-f8fb1b80-af3d-11eb-9e4e-365eb3b22e2a.png"/>
+<img width="30" title="Tailwind CSS" src="https://user-images.githubusercontent.com/25181517/117447841-02848380-af3e-11eb-9d3f-130b56b844b2.png"/>
 
-### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+#### **Tools & Platforms**
+<img width="30" title="Git" src="https://user-images.githubusercontent.com/25181517/117447876-0d3f1880-af3e-11eb-8e91-8e50aa0fd6be.png"/>
+<img width="30" title="GitHub" src="https://user-images.githubusercontent.com/25181517/117447911-14662680-af3e-11eb-995b-4f19e8c95a40.png"/>
+<img width="30" title="Postman" src="https://user-images.githubusercontent.com/25181517/117447948-1d570800-af3e-11eb-83ac-62417d3e2dc4.png"/>
+<img width="30" title="Figma" src="https://user-images.githubusercontent.com/25181517/117447985-28119d00-af3e-11eb-808e-4c3a58edc34b.png"/>
+<img width="30" title="Linux" src="https://user-images.githubusercontent.com/25181517/117448012-2fd14180-af3e-11eb-982a-6ffb80d0ea62.png"/>
+<img width="30" title="DigitalOcean" src="https://user-images.githubusercontent.com/25181517/117448036-38297c80-af3e-11eb-86a8-5b1cfdcd61e9.png"/>
+
 
 ---
 
