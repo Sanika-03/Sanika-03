@@ -7,7 +7,7 @@
 - 👩‍💻 Full-Stack Developer with expertise in **MERN stack**, crafting scalable and efficient web applications.
 - 🚀 Passionate about automation, user-centric design, and performance optimization.
 - 🔥 Currently developing a **tax-filing application** leveraging **Next.js, MongoDB, Express.js, and Node.js** for seamless automation and role-based access.
-- 📄 [Check out my resume](https://drive.google.com/file/d/1NxnJKH4kOiJOZZ8osGOEHdF_ERtGvqkU/view?usp=sharing) to explore my experience and skills!
+- 📄 [Check out my resume](https://drive.google.com/file/d/1NxnJKH4kOiJOZZ8osGOEHdF_ERtGvqkU/view?usp=drive_link) to explore my experience and skills!
 
 ## **Tech Stack**  
 
